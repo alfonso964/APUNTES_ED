@@ -14,3 +14,11 @@ Editar el codigo fuente | Compilar el codigo fuente | Ejecutar el codigo
  Abrimos editor        | Le pasamos codigo fuente |ejecutar el archivo
  Escribimos codigo     | Ejecutamos compilador    |
  guardamos             |                           |
+
+
+Tareas por realizar:
+- [x] ~Editar~
+- [] Compilar
+- [] Ejecutar
+
+
