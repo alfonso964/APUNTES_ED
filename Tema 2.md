@@ -1,5 +1,5 @@
 # Tema 2 
-En este tema realizarmos las siguientes actividades:
+En este tema realizaremos las siguientes actividades:
 - **editar codigo fuente**
 - **compilar el codigo fuente a objeto**
 - **ejecutar codigo ejecutable**
